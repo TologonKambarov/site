@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Aclonica
-- Font Author: Copyright (c) 2010 Brian J. Bonislawsky (astigma@astigmatic.com)
-- Font Source: https://fonts.gstatic.com/s/aclonica/v22/K2FyfZJVlfNNSEBXGb7TCI6oBjLz.ttf
-- Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html))
+- Font Title: Warnes
+- Font Author: Copyright 2012 The Warnes Project Authors (https://github.com/etunni/warnes), with Reserved Font Name 'Warnes'
+- Font Source: https://fonts.gstatic.com/s/warnes/v27/pONn1hc0GsW6sW5OpiC2o6Lkqg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
