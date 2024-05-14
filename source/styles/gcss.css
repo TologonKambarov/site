@@ -40,7 +40,7 @@ dropdown {
     font-size: 20px;
     padding-top: 5px;
     color: rgb(255, 248, 248);
-    display: inline;
+    display: inline-block;
     margin-left: 1%;
 }
 
@@ -62,6 +62,7 @@ dropdown {
 .im {
     display: inline;
     margin-top: 0%;
+    position: absolute;
 }
 
 .container-fluid {
@@ -74,4 +75,8 @@ dropdown {
 
 .font-effect-outline {
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
+}
+
+.carousel slide {
+    
 }
