@@ -74,11 +74,11 @@ dropdown {
 }
 
 .col-lg-2 {
-    padding: 0.1%;
+    padding: 0%;
 }
 
 .font-effect-outline {
-    
+    display: inline-block;
     background: linear-gradient(90deg, #fffeff 0%, #6ef705 100%);
 
 }
