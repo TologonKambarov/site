@@ -9,7 +9,7 @@
 
 body {
     background: linear-gradient(90deg, #76e85f 0%, #ffffff 100%);
-    padding: 0, 0%;
+    
 }
 
 .navbar-brand>img {
@@ -18,7 +18,7 @@ body {
 
 .dropdown-item {
     background: linear-gradient(180deg, #5fe8a1 0%, #ffffff 100%);
-    padding-right: -2%
+
 }
 
 .nav-link,
