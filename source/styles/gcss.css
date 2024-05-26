@@ -84,7 +84,7 @@ dropdown {
 }
 
 .font-effect-outline {
-    display: inline-block;
+    display: inline;
     padding: 10%;
     margin: 10%;
 }
