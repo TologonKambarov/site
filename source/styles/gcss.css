@@ -5,7 +5,6 @@
 }
 .im {
     display: inline;
-  
 }
 
 body {
@@ -35,7 +34,7 @@ dropdown {
 
 .bg {
     height: 10vh;
-    width: 50%;
+    width: 55%;
     position: absolute;
     top: 10;
     left: 20;
@@ -64,7 +63,6 @@ dropdown {
     margin-left: 5%;
     display: inline;
     border: solid 1px gold;
-
 }
 
 .font-effect-neon {
@@ -74,7 +72,6 @@ dropdown {
     display: inline-block;
     border: solid 1px rgb(172, 50, 50);
     color: darkred;
-
 }
 
 .container-fluid {
@@ -86,5 +83,6 @@ dropdown {
 }
 
 .font-effect-outline {
+    display: inline-block;
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
 }
