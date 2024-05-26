@@ -9,7 +9,7 @@
 
 body {
     background: linear-gradient(90deg, #76e85f 0%, #ffffff 100%);
-    padding: 0, 0%;
+    padding: 0, 0.2%;
 }
 
 .navbar-brand>img {
