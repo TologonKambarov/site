@@ -18,7 +18,7 @@ body {
 
 .dropdown-item {
     background: linear-gradient(180deg, #5fe8a1 0%, #ffffff 100%);
-    padding: 0;
+    padding: -5 px;
     margin: -5 px;
 }
 
