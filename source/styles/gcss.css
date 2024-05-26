@@ -14,6 +14,7 @@ body {
 
 .navbar-brand>img {
     display: inline-block;
+    
 }
 
 .dropdown-item {
@@ -26,6 +27,7 @@ dropdown {
     font-weight: unset;
     font-family: Tahoma;
     font-style: oblique;
+    padding-top: 1%
 }
 
 .bg {
@@ -40,6 +42,7 @@ dropdown {
     color: rgb(255, 248, 248);
     display: inline-block;
     margin-left: 1%;
+    
 }
 
 .font-effect-anaglyph {
@@ -77,6 +80,6 @@ dropdown {
 }
 
 .font-effect-outline {
-    display: flex;
-    background: linear-gradient(180deg, #fffeff 100%, #6ef705 100%);
+    display: flex-block;
+    background: linear-gradient(90deg, #fffeff 0%, #6ef705 100%);
 }
