@@ -79,7 +79,7 @@ dropdown {
 }
 
 .font-effect-outline {
-    display: inline-block;
+    display: inline;
     background: linear-gradient(90deg, #fffeff 0%, #6ef705 100%);
 
 }
