@@ -9,13 +9,11 @@
 
 body {
     background: linear-gradient(90deg, #76e85f 0%, #ffffff 100%);
-    padding: 0, 5%;
+    padding: 0, 1%;
 }
 
 .navbar-brand>img {
     display: inline-block;
-    margin: 0;
-    padding: 0;
 }
 
 .dropdown-item {
@@ -25,8 +23,6 @@ body {
 .nav-link,
 dropdown {
     background: linear-gradient(360deg, #5fe8a1 0%, #ffffff 100%);
-    margin-right: 5px;
-    padding: 5px;
     font-weight: unset;
     font-family: Tahoma;
     font-style: oblique;
@@ -36,8 +32,6 @@ dropdown {
     height: 10vh;
     width: 50%;
     position: absolute;
-    top: 10;
-    left: 20;
 }
 
 .font-effect-3d {
@@ -54,7 +48,7 @@ dropdown {
     margin-right: 5%;
     margin-left: 5%;
     font-size: 20px;
-    border: solid 2px aqua;
+    border: solid 5px aqua;
 }
 
 .font-effect-fire-animation {
@@ -62,7 +56,7 @@ dropdown {
     margin-right: 5%;
     margin-left: 5%;
     display: inline;
-    border: solid 2px gold;
+    border: solid 5px gold;
 }
 
 .font-effect-neon {
@@ -79,10 +73,10 @@ dropdown {
 }
 
 .col-lg-2 {
-    padding: auto;
+    padding: 100%;
 }
 
 .font-effect-outline {
-    display: inline;
+    display: block;
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
 }
