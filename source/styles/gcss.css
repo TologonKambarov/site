@@ -102,14 +102,34 @@ dropdown {
 
 .carousel-indicators {
     color: red;
+    back-ground-color: gold;
+    border: solid 1px black;
 }
 
 .carousel-control-prev-icon {
     color: red;
+    back-ground-color: gold;
+    border: solid 1px black;
 }
 .carousel-control-next-icon {
     color: red;
+    back-ground-color: gold;
+    border: solid 1px black;
 }
 #carouselExampleIndicators {
     color: red;
+    back-ground-color: gold;
+    border: solid 1px black;
 }
+span {
+    color: red;
+    back-ground-color: gold;
+    border: solid 1px black;
+}
+button {
+    color: red;
+    back-ground-color: gold;
+    border: solid 1px black;
+}
+
+
