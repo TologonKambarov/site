@@ -100,31 +100,31 @@ dropdown {
     text-decoration: none;
 }
 
-/*.carousel-indicators {
+.carousel-indicators {
     color: red;
     back-ground-color: gold;
-    border: solid 1px black;
+    border: solid 5px blue;
 }
 
 .carousel-control-prev-icon {
     color: red;
     back-ground-color: gold;
-    border: solid 1px black;
+    border: solid 5px green;
 }
 .carousel-control-next-icon {
     color: red;
     back-ground-color: gold;
-    border: solid 1px black;
+    border: solid 5px white;
 }
 #carouselExampleIndicators {
     color: red;
     back-ground-color: gold;
-    border: solid 1px black;
-}*/
+    border: solid 5px red;
+}
 span {
     color: red;
     back-ground-color: gold;
-    border: solid 1px black;
+    border: solid 5px black;
 }
 /*button {
     color: red;
