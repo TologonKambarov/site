@@ -64,6 +64,7 @@ dropdown {
     display: inline-block;
     margin-right: 5%;
     margin-left: 5%;
+    padding: 1%;
     font-size: 20px;
     border: solid 5px aqua;
 }
@@ -75,6 +76,7 @@ dropdown {
     font-size: auto;
     margin-right: 5%;
     margin-left: 5%;
+    padding: 1%;
     display: inline;
     border: solid 5px gold;
 }
@@ -85,6 +87,7 @@ dropdown {
     font-size: auto;
     margin-right: 5%;
     margin-left: 5%;
+    padding: 1%;
     display: inline-block;
     border: solid 1px rgb(172, 50, 50);
     color: darkred;
