@@ -45,6 +45,7 @@ dropdown {
     color: red;
     font-size: 10px;
     border: solid 5px rgb(172, 50, 50);
+    text-align: center;
 }
 .col-lg-3 {
     padding: 0;
@@ -58,7 +59,6 @@ dropdown {
     color: rgb(255, 248, 248);
     display: inline-block;
     margin-left: 0;
-    
 }
 
 .font-effect-anaglyph {
@@ -68,7 +68,7 @@ dropdown {
     margin-left: 0;
     padding: 0.5%;
     font-size: 15px;
-    border: solid 5px aqua;
+    border: solid 2px green;
 }
 .font-effect-anaglyph:hover {
     text-decoration: none;
@@ -80,19 +80,19 @@ dropdown {
     margin-left: 0;
     padding: 0;
     display: inline;
-    border: solid 5px gold;
+    border: solid 2px gold;
 }
 .font-effect-fire-animation:hover {
     text-decoration: none;
 }
 .font-effect-neon {
     font-size: auto;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin: 2%;
     padding: 1%;
     display: inline-block;
     border: solid 1px rgb(172, 50, 50);
     color: darkred;
+    text-align: center;
 }
 .font-effect-neon:hover {
     text-decoration: none;
