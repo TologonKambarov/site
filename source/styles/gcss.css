@@ -32,9 +32,7 @@ dropdown {
     margin: 0.5%;
     padding: 0.5%;
 }
-.certificate {
-    margin-top: 1px;
-}
+.certificate
         
 .bg {
     height: 10vh;
@@ -43,22 +41,21 @@ dropdown {
 }
 
 .font-effect-outline {
-    display: inline;
+    display: inline-block;
     color: red;
-    background-color: blue;
     font-size: 10px;
-    font-wheight: bold
+    border: solid 1px rgb(172, 50, 50);
 }
 .col-lg-3 {
-    display: content;
+    display: content-size;
 }
 
 .font-effect-3d {
-    font-size: 20px;
+    font-size: 15px;
     padding-top: 5px;
     color: rgb(255, 248, 248);
     display: inline-block;
-    margin-left: 1%;
+    margin-left: 0.5%;
     
 }
 
@@ -67,8 +64,8 @@ dropdown {
     display: inline-block;
     margin-right: 5%;
     margin-left: 5%;
-    padding: 1%;
-    font-size: 20px;
+    padding: 0.5%;
+    font-size: 15px;
     border: solid 5px aqua;
 }
 .font-effect-anaglyph:hover {
