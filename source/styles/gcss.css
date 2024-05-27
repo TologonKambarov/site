@@ -43,11 +43,9 @@ dropdown {
 .font-effect-outline {
     display: inline-block;
     color: red;
-    font-size: 10px;
-    border: solid 5px rgb(172, 50, 50);
+    font-size: 5px;
+    border: solid 2px pink;
     text-align: center;
-    padding: 0;
-    margin: 0;
 }
 .col-lg-3 {
     padding: 0;
@@ -82,7 +80,7 @@ dropdown {
     margin-left: 0;
     padding: 0;
     display: inline;
-    border: solid 2px light-red;
+    border: solid 2px green;
 }
 .font-effect-fire-animation:hover {
     text-decoration: none;
@@ -90,7 +88,7 @@ dropdown {
 .font-effect-neon {
     font-size: 10px;
     margin: 2%;
-    padding: 10%;
+    padding: 2%;
     display: inline-block;
     border: solid 1px rgb(172, 50, 50);
     color: darkred;
