@@ -9,7 +9,8 @@
 
 body {
     background: linear-gradient(90deg, #76e85f 0%, #ffffff 100%);
-    
+    padding: 0%;
+    margin: 0%;
 }
 
 .navbar-brand>img {
@@ -18,8 +19,8 @@ body {
 
 .dropdown-item {
     background: linear-gradient(180deg, #5fe8a1 0%, #ffffff 100%);
-    padding: 1px;
-    margin: 1px;
+    padding: 0%;
+    margin: 0%;
 }
 
 .nav-link,
@@ -28,14 +29,16 @@ dropdown {
     font-weight: unset;
     font-family: Tahoma;
     font-style: oblique;
-    margin: 1px;
-    padding: 1px;
+    margin: 0%;
+    padding: 0%;
 }
 
 .bg {
     height: 10vh;
     width: 100%;
     position: absolute;
+    padding: 0%;
+    margin: 0%;
 }
 
 .font-effect-3d {
@@ -75,10 +78,12 @@ dropdown {
 
 .container-fluid {
     padding: 0%;
+    margin: 0%;
 }
 
 .col-lg-2 {
     padding: 0%;
+    margin: 0%;
 }
 
 .accordion {
