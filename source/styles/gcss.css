@@ -40,15 +40,15 @@ dropdown {
 }
 
 .font-effect-outline {
-    display: inline-block;
+    display: block;
     color: red;
     font-size: auto;
-    text-align: content;
+    text-align: center;
 }
 .col-lg-3 {
     padding: 0%;
     margin: 0%;
-    text-align: right;
+    text-align: center;
 }
 
 .font-effect-3d {
