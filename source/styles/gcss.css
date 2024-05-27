@@ -33,6 +33,9 @@ dropdown {
     padding: 1%;
 }
 
+.navbar-toggler-icon {
+    margin-right: 1%;
+
 .bg {
     height: 10vh;
     width: 100%;
