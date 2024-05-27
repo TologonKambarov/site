@@ -71,7 +71,9 @@ dropdown {
     display: inline;
     border: solid 5px gold;
 }
-
+.font-effect-fire-animation:hover {
+    text-decoration: none;
+}
 .font-effect-neon {
     font-size: auto;
     margin-right: 5%;
