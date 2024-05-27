@@ -40,10 +40,9 @@ dropdown {
 }
 
 .font-effect-outline {
-    display: inline-block;
+    display: block;
     color: red;
     font-size: auto;
-    border: solid 2px green;
     text-align: center;
 }
 .col-lg-3 {
