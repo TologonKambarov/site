@@ -46,6 +46,8 @@ dropdown {
     font-size: 10px;
     border: solid 5px rgb(172, 50, 50);
     text-align: center;
+    padding: 0;
+    margin: 0;
 }
 .col-lg-3 {
     padding: 0;
@@ -80,15 +82,15 @@ dropdown {
     margin-left: 0;
     padding: 0;
     display: inline;
-    border: solid 2px gold;
+    border: solid 2px light-red;
 }
 .font-effect-fire-animation:hover {
     text-decoration: none;
 }
 .font-effect-neon {
-    font-size: auto;
+    font-size: 10px;
     margin: 2%;
-    padding: 1%;
+    padding: 10%;
     display: inline-block;
     border: solid 1px rgb(172, 50, 50);
     color: darkred;
