@@ -34,9 +34,10 @@ dropdown {
 }
         
 .bg {
-    height: 10vh;
+    height: auto;
     position: absolute;
-    display: inline-block;
+    display: block;
+    width: 100%;
 }
 
 .font-effect-outline {
