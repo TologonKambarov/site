@@ -101,35 +101,19 @@ dropdown {
 }
 
 .carousel-indicators {
-    color: red;
-    back-ground-color: gold;
-    border: solid 5px blue;
+    border: solid 100% blue;
+    
 }
 
 .carousel-control-prev-icon {
-    color: red;
-    back-ground-color: gold;
-    border: solid 5px green;
+    border: solid 5px yellow;
 }
 .carousel-control-next-icon {
-    color: red;
-    back-ground-color: gold;
     border: solid 5px white;
 }
 #carouselExampleIndicators {
-    color: red;
-    back-ground-color: gold;
-    border: solid 5px red;
+    border: solid 5px gold;
 }
-span {
-    color: red;
-    back-ground-color: gold;
-    border: solid 5px black;
-}
-/*button {
-    color: red;
-    back-ground-color: gold;
-    border: solid 5px black;
-}*/
+
 
 
