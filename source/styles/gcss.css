@@ -39,6 +39,7 @@ dropdown {
     width: 100%;
     text-align: center;
     padding-top: 1%;
+    border: solid 0.5px aqua;
 }
 
 .font-effect-outline {
