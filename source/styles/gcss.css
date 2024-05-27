@@ -39,8 +39,8 @@ dropdown {
     position: absolute;
 }
 
-.col-lg-3 col-md-12 {
-    display: inline-block;
+.col-lg-3 {
+    display: inline;
 }
 
 .font-effect-3d {
