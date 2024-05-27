@@ -37,9 +37,8 @@ dropdown {
     height: 10vh;
     width: 100%;
     position: absolute;
-    padding: 0%;
+    padding: 10%;
     margin: 10%;
-    top: 10%;
 }
 
 .font-effect-3d {
