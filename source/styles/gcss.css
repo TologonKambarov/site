@@ -40,7 +40,7 @@ dropdown {
     width: 100%;
     position: absolute;
     padding: 0%;
-    margin: 1%;
+    margin: 0%;
 }
 
 .font-effect-3d {
@@ -79,7 +79,7 @@ dropdown {
 }
 
 .font-effect-outline {
-    display: content;
+    display: inline-block;
 }
 
 .container-fluid {
