@@ -39,6 +39,9 @@ dropdown {
     position: absolute;
 }
 
+.font-effect-outline {
+    display: content;
+}
 .col-lg-3 {
     display: content;
 }
