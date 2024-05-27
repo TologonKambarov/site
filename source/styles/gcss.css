@@ -5,7 +5,8 @@
 }
 .im {
     display: inline-block;
-    margin-left: 1%;
+    margin: 5%;
+    padding: 5%;
 }
 
 body {
