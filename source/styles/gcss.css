@@ -33,13 +33,13 @@ dropdown {
     padding: 0.5%;
 }
 .certificate {
-    margin-top: 10px;
+    margin-top: 1px;
 }
         
 .bg {
     height: 10vh;
     position: absolute;
-    display: inline;
+    display: inline-block;
 }
 
 .font-effect-outline {
@@ -48,7 +48,6 @@ dropdown {
     background-color: blue;
     font-size: 10px;
     font-wheight: bold
-    border: solid;
 }
 .col-lg-3 {
     display: content;
