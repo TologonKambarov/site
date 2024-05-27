@@ -100,7 +100,7 @@ dropdown {
     text-decoration: none;
 }
 
-.carousel-indicators {
+/*.carousel-indicators {
     color: red;
     back-ground-color: gold;
     border: solid 1px black;
@@ -125,7 +125,7 @@ span {
     color: red;
     back-ground-color: gold;
     border: solid 1px black;
-}
+} */
 button {
     color: red;
     back-ground-color: gold;
