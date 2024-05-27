@@ -40,9 +40,7 @@ dropdown {
 }
 
 .col-lg-3 {
-    display: block;
-    margin: 10%;
-    padding: 10%;
+    display: content;
 }
 
 .font-effect-3d {
