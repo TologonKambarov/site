@@ -63,6 +63,9 @@ dropdown {
     font-size: 20px;
     border: solid 5px aqua;
 }
+.font-effect-anaglyph:hover {
+    text-decoration: none;
+}
 
 .font-effect-fire-animation {
     font-size: auto;
