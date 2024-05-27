@@ -82,4 +82,6 @@ dropdown {
     border: solid 1px rgb(172, 50, 50);
     color: darkred;
 }
-
+.font-effect-neon:hover {
+    text-decoration: none;
+}
