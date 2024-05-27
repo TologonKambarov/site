@@ -99,3 +99,7 @@ dropdown {
 .font-effect-neon:hover {
     text-decoration: none;
 }
+
+.carousel-indicators {
+    color: red;
+}
