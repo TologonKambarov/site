@@ -39,6 +39,10 @@ dropdown {
     position: absolute;
 }
 
+.col-lg-3 col-md-12 {
+    display: inline-block;
+}
+
 .font-effect-3d {
     font-size: 20px;
     padding-top: 5px;
