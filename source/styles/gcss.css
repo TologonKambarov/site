@@ -81,6 +81,9 @@ dropdown {
     color: darkred;
 }
 
+.font-effect-outline {
+    display: inline;
+
 .container-fluid {
     padding: 0%;
     margin: 0%;
