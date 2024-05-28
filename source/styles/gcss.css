@@ -36,7 +36,7 @@ dropdown {
 .bg {
     height: auto;
     display: block;
-    width: 200%;
+    width: 100%;
     text-align: center;
     padding-top: 5%;
 }
@@ -87,11 +87,11 @@ dropdown {
     text-decoration: none;
 }
 .font-effect-neon {
-    font-size: 60%;
+    font-size: 50%;
     margin: 0.5%;
     padding: 0.5%;
     display: inline-block;
-    border: solid 1px rgb(172, 50, 50);
+    border: solid 0.5px rgb(172, 50, 50);
     color: darkred;
     text-align: center;
 }
