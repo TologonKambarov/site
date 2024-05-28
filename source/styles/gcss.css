@@ -39,7 +39,8 @@ dropdown {
     width: 100%;
     text-align: center;
     padding-top: 1%;
-    border: solid 0.5px aqua;
+    padding: 0;
+    border: solid 5px gold;
 }
 
 .font-effect-outline {
@@ -88,9 +89,9 @@ dropdown {
     text-decoration: none;
 }
 .font-effect-neon {
-    font-size: auto;
-    margin: 1%;
-    padding: 1%;
+    font-size: 50%;
+    margin: 0.5%;
+    padding: 0.5%;
     display: inline-block;
     border: solid 1px rgb(172, 50, 50);
     color: darkred;
