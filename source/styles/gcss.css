@@ -99,11 +99,11 @@ dropdown {
 .font-effect-neon:hover {
     text-decoration: none;
 }
-.carousel {
+.carousel-control-prev-icon {
 carousel-dark-indicator-active-bg:  black;
 carousel-dark-caption-color:        black;
 carousel-dark-control-icon-filter:  invert(1) grayscale(100);
-carousel-indicator-width:           50px; 
+carousel-indicator-width:           100px; 
 }
 
 .carousel-indicators{
