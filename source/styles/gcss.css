@@ -99,9 +99,23 @@ dropdown {
 .font-effect-neon:hover {
     text-decoration: none;
 }
-.carousel-dark {
+.carousel {
 carousel-dark-indicator-active-bg:  black;
 carousel-dark-caption-color:        black;
+carousel-dark-control-icon-filter:  invert(1) grayscale(100);
+carousel-indicator-width:           50px; 
+}
+
+.carousel-indicators{
+carousel-dark-indicator-active-bg:  red;
+carousel-dark-caption-color:        red;
+carousel-dark-control-icon-filter:  invert(1) grayscale(100);
+carousel-indicator-width:           50px; 
+    
+}
+.carousel-inner{
+carousel-dark-indicator-active-bg:  yellow;
+carousel-dark-caption-color:        yellow;
 carousel-dark-control-icon-filter:  invert(1) grayscale(100);
 carousel-indicator-width:           50px; 
 }
