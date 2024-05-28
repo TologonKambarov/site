@@ -56,7 +56,7 @@ dropdown {
 }
 
 .font-effect-3d {
-    font-size: 15px;
+    font-size: auto;
     padding-top: 5px;
     color: rgb(255, 248, 248);
     display: inline-block;
@@ -68,8 +68,8 @@ dropdown {
     display: inline-block;
     margin-right: 0;
     margin-left: 0;
-    padding: 0.5%;
-    font-size: 15px;
+    padding: 1%;
+    font-size: auto;
     border: solid 1px green;
 }
 .font-effect-anaglyph:hover {
@@ -80,7 +80,7 @@ dropdown {
     font-size: auto;
     margin-right: 0;
     margin-left: 0;
-    padding: 0;
+    padding: 1%;
     display: inline;
     border: solid 1px gold;
 }
@@ -88,7 +88,7 @@ dropdown {
     text-decoration: none;
 }
 .font-effect-neon {
-    font-size: 10px;
+    font-size: auto;
     margin: 1%;
     padding: 1%;
     display: inline-block;
@@ -99,28 +99,13 @@ dropdown {
 .font-effect-neon:hover {
     text-decoration: none;
 }
-.carousel-control-prev-icon,
-.carousel-indicators,
-button {
-carousel-dark-indicator-active-bg:  black;
-carousel-dark-caption-color:        black;
-carousel-dark-control-icon-filter:  invert(1) grayscale(100);
-carousel-indicator-width:           100px; 
-}
 
-.carousel-indicators{
-carousel-dark-indicator-active-bg:  red;
-carousel-dark-caption-color:        red;
-carousel-dark-control-icon-filter:  invert(1) grayscale(100);
-carousel-indicator-width:           50px; 
-    
-}
-.carousel-inner{
+/*.carousel-inner{
 carousel-dark-indicator-active-bg:  yellow;
 carousel-dark-caption-color:        yellow;
 carousel-dark-control-icon-filter:  invert(1) grayscale(100);
 carousel-indicator-width:           50px; 
-}
+}*/
 
 /*.carousel-indicators {
     border: solid 5px blue;
