@@ -7,9 +7,6 @@
     display: inline;
 }
 
-.im > font-effect-fire-animation {
-    display: inline-block;
-}
 body {
     background: linear-gradient(90deg, #76e85f 0%, #ffffff 100%);
     padding: 0;
