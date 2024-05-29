@@ -33,7 +33,11 @@ dropdown {
     margin: 0.5%;
     padding: 0.5%;
 }
-        
+
+.col-lg-2 {
+    background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
+}
+
 .bg {
     height: auto;
     display: block;
