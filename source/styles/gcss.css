@@ -38,7 +38,7 @@ dropdown {
     height: auto;
     display: block;
     width: 100%;
-    text-align: center;
+    text-align: items;
     padding-top: 5%;
 }
 
@@ -100,7 +100,7 @@ dropdown {
     text-decoration: none;
 }
 
-.box {
+/*.box {
     height: 30px;
     display: inline;
     cursor: pointer;
@@ -121,7 +121,7 @@ dropdown {
     font-weight: 500;
     transition: 0.85;
     background: transparent;
-}
+}*/
 .box a .fas {
     color: red;
     font-size: 18px;
