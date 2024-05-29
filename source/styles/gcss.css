@@ -68,7 +68,7 @@ dropdown {
     display: inline-block;
     margin-right: 0;
     margin-left: 0;
-    padding: 1%;
+    padding: 2%;
     font-size: auto;
     border: solid 1px green;
 }
@@ -80,7 +80,7 @@ dropdown {
     font-size: auto;
     margin-right: 0;
     margin-left: 0;
-    padding: 1%;
+    padding: 2%;
     display: inline;
     border: solid 1px green;
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
@@ -89,11 +89,11 @@ dropdown {
     text-decoration: none;
 }
 .font-effect-neon {
-    font-size: 55%;
-    margin: 0.5%;
-    padding: 0.5%;
+    font-size: 50%;
+    margin: 1%;
+    padding: 1%;
     display: inline-block;
-    border: solid 0.5px black;
+    border: solid 0.5px green;
     color: darkred;
     text-align: center;
 }
