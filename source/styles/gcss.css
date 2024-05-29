@@ -35,7 +35,7 @@ dropdown {
 }
 
 .col-lg-2 {
-    background: linear-gradient(0deg, #fffeff 0%, #6ef705 100%);
+    background: linear-gradient(90deg, #fffeff 0%, #6ef705 100%);
     margin: 0.5%;
 }
 
@@ -95,7 +95,7 @@ dropdown {
 }
 .font-effect-neon {
     font-size: 50%;
-    margin: 1%;
+    margin: 0%;
     padding: 1%;
     display: inline-block;
     border: solid 0.5px green;
