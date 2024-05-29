@@ -38,7 +38,7 @@ dropdown {
     height: auto;
     display: block;
     width: 100%;
-    text-align: items;
+    text-align: content;
     padding-top: 5%;
 }
 
@@ -82,7 +82,7 @@ dropdown {
     margin-left: 0;
     padding: 1%;
     display: inline;
-    border: solid 1px gold;
+    border: solid 1px white;
 }
 .font-effect-fire-animation:hover {
     text-decoration: none;
