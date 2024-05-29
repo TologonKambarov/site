@@ -102,17 +102,17 @@ dropdown {
 
 .box {
     height: 30px;
-    display: inline-block;
+    display: inline;
     cursor: pointer;
-    padding: 10px 20px;
+    padding: 1px 2px;
     background: white;
-    border-radius: 30px;
+    border-radius: 10px;
     align-items: center;
-    box-shadow: 0 10px 25px black;
+    box-shadow: 0 2px 5px black;
 }
 
 .box:hover input{
-    width: 60px;
+    width: 30px;
 }
 .box input {
     width: 0;
