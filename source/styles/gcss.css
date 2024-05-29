@@ -37,6 +37,7 @@ dropdown {
 .col-lg-2 {
     background: linear-gradient(90deg, #fffeff 0%, #6ef705 100%);
     margin: 0.5%;
+    padding: 0.5%
 }
 
 .bg {
@@ -44,7 +45,7 @@ dropdown {
     display: block;
     width: 100%;
     text-align: center;
-    padding-top: 5%;
+    padding-top: 2%;
 }
 
 .font-effect-outline {
