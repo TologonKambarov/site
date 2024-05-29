@@ -40,13 +40,13 @@ dropdown {
     padding: 0.5%
 }
 #collapseOne {
-    background: linear-gradient(45deg, #fffeff 0%, #6ef705 100%);
+    background: linear-gradient(23deg, #fffeff 0%, #6ef705 100%);
 }
 #collapseTwo {
-    background: linear-gradient(135deg, #fffeff 0%, #6ef705 100%);
+    background: linear-gradient(155deg, #fffeff 0%, #6ef705 100%);
 }
 #collapseThree{
-    background: linear-gradient(225deg, #fffeff 0%, #6ef705 100%);
+    background: linear-gradient(215deg, #fffeff 0%, #6ef705 100%);
 }
 
 .bg {
