@@ -71,8 +71,6 @@ dropdown {
     padding: 1%;
     font-size: auto;
     border: solid 1px green;
-    border-radius: 10px;
-    
 }
 .font-effect-anaglyph:hover {
     text-decoration: none;
@@ -124,10 +122,6 @@ dropdown {
     transition: 0.85;
     background: transparent;
 }*/
-.box a .fas {
-    color: red;
-    font-size: 18px;
-}
 
 
 /*.carousel-inner{
