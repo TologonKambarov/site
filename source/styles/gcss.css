@@ -39,9 +39,25 @@ dropdown {
     margin: 0.5%;
     padding: 0.5%
 }
+.oz {
+background: rgb(131,58,180);
+background: linear-gradient(0deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.im {
+    background: rgb(131,58,180);
+background: linear-gradient(120deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.ob {
+    background: rgb(131,58,180);
+background: linear-gradient(240deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
 #collapseOne {
     background: linear-gradient(23deg, #fffeff 0%, #6ef705 100%);
 }
+
 #collapseTwo {
     background: linear-gradient(155deg, #fffeff 0%, #6ef705 100%);
 }
