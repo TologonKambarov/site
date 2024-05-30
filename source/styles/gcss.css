@@ -6,14 +6,14 @@ body {
 
 .image {
     height: auto;
-    display: inline-block;
+    display: inline;
     width: auto;
     text-align: left;
     margin: 0;
     padding: 0;
 }
 .im {
-    display: inline-block;
+    display: inline;
    /* background: rgb(131,58,180);
 background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
 }*/
@@ -41,14 +41,14 @@ dropdown {
 }
 
 #collapseOne {
-    background: linear-gradient(23deg, #fffeff 0%, #6ef705 100%);
+    background: linear-gradient(135deg, #fffeff 0%, #6ef705 100%);
 }
 
 #collapseTwo {
-    background: linear-gradient(155deg, #fffeff 0%, #6ef705 100%);
+    background: linear-gradient(225deg, #fffeff 0%, #6ef705 100%);
 }
 #collapseThree{
-    background: linear-gradient(215deg, #fffeff 0%, #6ef705 100%);
+    background: linear-gradient(315deg, #fffeff 0%, #6ef705 100%);
 }
 
 .bg {
@@ -76,7 +76,7 @@ dropdown {
     font-size: auto;
     padding-top: 5px;
     color: rgb(255, 248, 248);
-    display: inline-block;
+    display: inline;
     margin-left: 0;
 }
 
