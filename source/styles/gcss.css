@@ -6,10 +6,10 @@ body {
 }
 
 .image {
-    display: flex;
+    display: flex-inline;
     margin: 0;
     padding: 0;
-    width: 10%;
+    width: 1em;
 }
 .im {
     display: inline-block;
