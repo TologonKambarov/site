@@ -125,9 +125,10 @@ dropdown {
         display: flex;
         justify-content: space-between;
     }
-    .qr {
+    .qr, 
+    font-effect-3d,
+    font-effect-neon {
         display: inline-block;
-        
     }
     }
 
