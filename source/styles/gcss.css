@@ -123,7 +123,7 @@ dropdown {
     .col-lg-4,
     image {
         display: flex;
-        justify-content: space-between
+        justify-content: space-between;
     }
     .qr {
         display: inline-block;
