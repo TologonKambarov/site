@@ -108,14 +108,13 @@ dropdown {
     text-decoration: none;
 }
 .font-effect-neon {
-    font-size: 50%;
-    margin-top: -1%;
-    margin-left: 1%
-    padding: 1%;
-    display: inline-block;
+    font-size: auto;
+    margin: 0;
+    padding: 0;
+    display: inline;
     border: solid 0.5px green;
     color: red;
-    text-align: center;
+    text-align: right;
     box-shadow: -1 1px 2px black;
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
 }
