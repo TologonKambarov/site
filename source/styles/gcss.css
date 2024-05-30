@@ -5,10 +5,10 @@ body {
 }
 
 .image {
-    display: flex-inline;
+    display: inline;
     margin: 0;
     padding: 0;
-    width: 10px;
+    width: 10%;
 }
 .im {
     display: inline-block;
