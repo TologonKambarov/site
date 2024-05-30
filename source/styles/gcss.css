@@ -127,6 +127,9 @@ dropdown {
         justify-content: space-between;
     }
     img
+    h4 {
+        display: inline-block;
+    }
     .qr {
         display: inline-block;
     }
