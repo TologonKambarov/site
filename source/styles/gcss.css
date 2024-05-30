@@ -108,7 +108,7 @@ dropdown {
 .font-effect-neon {
     font-size: auto;
     margin: 0;
-    padding: 0;
+    padding: 1px;
     display: inline-block;
     border: solid 0.5px green;
     color: red;
