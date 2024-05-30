@@ -88,7 +88,7 @@ dropdown {
     padding: 2%;
     font-size: auto;
     border: solid 1px green;
-    box-shadow: 0 5px 10px black;
+    box-shadow: 0 2px 4px black;
 }
 .font-effect-anaglyph:hover {
     text-decoration: none;
@@ -102,7 +102,7 @@ dropdown {
     display: inline-block;
     border: solid 1px green;
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
-    box-shadow: 0 5px 10px dark;
+    box-shadow: 0 5px 10px black;
 }
 .font-effect-fire-animation:hover {
     text-decoration: none;
@@ -116,7 +116,7 @@ dropdown {
     border: solid 0.5px green;
     color: darkred;
     text-align: center;
-    box-shadow: 0 5px 10px grey;
+    box-shadow: 0 5px 10px black;
 }
 .font-effect-neon:hover {
     text-decoration: none;
