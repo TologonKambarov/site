@@ -23,7 +23,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 }
 
 .nav-link,
-dropdown {
+.dropdown {
     background: linear-gradient(360deg, #5fe8a1 0%, #ffffff 100%);
     font-weight: unset;
     font-family: Tahoma;
@@ -121,12 +121,12 @@ dropdown {
 @media (
     min-width:768px) {
     .col-lg-4,
-    image
-    contact {
+    .image,
+    .contact {
         display: flex;
         justify-content: space-between;
     }
-    img
+    img,
     h4 {
         display: inline-block;
     }
