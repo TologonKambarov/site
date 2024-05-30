@@ -6,8 +6,8 @@ body {
 
 .image {
     height: auto;
-    display: block;
-    width: 1%;
+    display: inline-block;
+    width: auto;
     text-align: left;
     margin: 0;
     padding: 0;
@@ -88,7 +88,7 @@ dropdown {
     padding: 2%;
     font-size: auto;
     border: solid 1px green;
-    box-shadow: -1 2px 4px black;
+    box-shadow: 0 2px 4px black;
 }
 .font-effect-anaglyph:hover {
     text-decoration: none;
