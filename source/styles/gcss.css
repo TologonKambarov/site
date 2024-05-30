@@ -6,12 +6,11 @@ body {
 
 .image {
     height: auto;
-    /*display: block;
+    display: block;
     width: 1%;
     text-align: left;
     margin: 0;
-    padding: 0;*/
-    
+    padding: 0;
 }
 .im {
     display: inline-block;
