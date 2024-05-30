@@ -121,14 +121,13 @@ dropdown {
 @media (
     min-width:768px) {
     .col-lg-4,
-    image {
+    image
+    contact {
         display: flex;
         justify-content: space-between;
     }
     img
-    .qr, 
-    font-effect-3d,
-    font-effect-neon {
+    .qr {
         display: inline-block;
     }
     }
