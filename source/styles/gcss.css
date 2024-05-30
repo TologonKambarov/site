@@ -123,5 +123,8 @@ dropdown {
     .col-lg-4 {
         display: flex;
     }
+    .qr {
+        display: inline-block;
+    }
     }
 
