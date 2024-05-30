@@ -1,3 +1,10 @@
+
+body {
+    background: linear-gradient(90deg, #76e85f 0%, #ffffff 100%);
+    padding: 0;
+    margin: 0;
+}
+
 .image {
     display: inline-block;
     margin-left: 1%;
@@ -8,12 +15,6 @@
     display: inline;
     background: rgb(131,58,180);
 background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
-}
-
-body {
-    background: linear-gradient(90deg, #76e85f 0%, #ffffff 100%);
-    padding: 0;
-    margin: 0;
 }
 
 .navbar-brand>img {
