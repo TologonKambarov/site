@@ -118,33 +118,11 @@ dropdown {
     text-decoration: none;
 }
 
-/*.box {
-    height: 30px;
-    display: inline;
-    cursor: pointer;
-    padding: 1px 2px;
-    background: white;
-    border-radius: 10px;
-    align-items: center;
-    box-shadow: 0 2px 5px black;
-}
+@media (
+    min-width:768px) {
+    .col-lg-4 {
+        display: flex;
+    }
+    border: solid 5px red;
+    }
 
-.box:hover input{
-    width: 30px;
-}
-.box input {
-    width: 0;
-    outline: none;
-    border: none;
-    font-weight: 500;
-    transition: 0.85;
-    background: transparent;
-}*/
-
-
-/*.carousel-inner{
-carousel-dark-indicator-active-bg:  yellow;
-carousel-dark-caption-color:        yellow;
-carousel-dark-control-icon-filter:  invert(1) grayscale(100);
-carousel-indicator-width:           50px; 
-}*/
