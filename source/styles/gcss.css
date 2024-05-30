@@ -122,10 +122,11 @@ dropdown {
     min-width:768px) {
     .col-lg-4 {
         display: flex;
+        justify-content: space-between
     }
     .qr {
         display: inline-block;
-        justify-content: space-between;
+        
     }
     }
 
