@@ -16,7 +16,6 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 .hrefbutton {
     display: flex;
     justify-content: space-between;
-    gap: 10px;
 }
 
 input::placeholder {
@@ -97,9 +96,9 @@ input::placeholder {
 
 .font-effect-anaglyph {
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
-    display: inline-block;
+    display: inline;
     margin: 2%;
-    padding: 2%;
+    padding: 0;
     font-size: auto;
     border: solid 1px green;
     box-shadow: 0 2px 4px black;
@@ -111,8 +110,8 @@ input::placeholder {
 .font-effect-fire-animation {
     font-size: auto;
     margin: 2%;
-    padding: 2%;
-    display: inline-block;
+    padding: 0;
+    display: inline;
     border: solid 1px green;
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
     box-shadow: 0 2px 4px black;
