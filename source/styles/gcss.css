@@ -136,6 +136,9 @@ input {
         display: flex;
         justify-content: space-between;
     }
+    .hrefbutton {
+        gap: 1px
+    }
     
     h6 {
         display: inline-block;
@@ -147,7 +150,7 @@ input {
     .font-effect-anaglyph,
     .font-effect-fire-animation,
     .navbar-toggler{
-        display: inline-flex;
+        display: block;
         padding: 0;
         margin: 1px;
         
