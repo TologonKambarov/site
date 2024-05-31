@@ -9,7 +9,6 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 0.1em;
-    margin: 0.1em;
 }
 .font-effect-3d {background: rgb(131,58,180);
 background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
@@ -26,9 +25,10 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 input::placeholder {
     font-size: 1em;
     color: red;
+    box-shadow: 0 2px 4px black;
 }
 .d-flex {
-        box-shadow: 0 2px 4px black;
+        
     }
 
 .dropdown-item {
