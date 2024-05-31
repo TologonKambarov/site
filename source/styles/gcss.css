@@ -6,9 +6,9 @@ body {
 
 .image {
     height: auto;
-    display: inline;
+    display: flex;
     width: auto;
-    text-align: left;
+    justify-content: space-between;
     margin: 0;
     padding: 0;
 }
@@ -146,7 +146,8 @@ input::placeholder {
     min-width:768px) {
     .col-lg-4,
     .contact,
-    .hrefbutton {
+    .hrefbutton 
+    .image {
         display: flex;
         justify-content: space-between;
     }
