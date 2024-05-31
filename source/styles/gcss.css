@@ -7,6 +7,7 @@ body {
 .image {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .font-effect-3d {background: rgb(131,58,180);
 background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
@@ -81,8 +82,7 @@ input::placeholder {
     font-size: auto;
     padding-top: 5px;
     color: rgb(255, 248, 248);
-    display: inline;
-    margin-left: 0;
+    display: inline-block;
 }
 
 .font-effect-anaglyph {
