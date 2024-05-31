@@ -134,7 +134,7 @@ input {
         justify-content: space-between;
     }
     .hrefbutton {
-        gap: 1px
+        gap: 10px
     }
     
     h6 {
@@ -148,9 +148,6 @@ input {
     .font-effect-fire-animation,
     .navbar-toggler{
         display: block;
-        padding: 0;
-        margin: 1px;
-        
     }
     .navbar-toggler {
         margin-right: 0;
@@ -158,6 +155,7 @@ input {
     .d-flex {
         width: 100px;
         height: 50px;
+        font-size: 40px;
     }
     }
 
