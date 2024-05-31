@@ -82,12 +82,10 @@ input::placeholder {
     font-size: auto;
     padding-top: 5px;
     color: rgb(255, 248, 248);
-    display: inline-block;
 }
 
 .font-effect-anaglyph {
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
-    display: inline;
     margin: 2%;
     padding: 0;
     font-size: auto;
@@ -102,7 +100,6 @@ input::placeholder {
     font-size: auto;
     margin: 2%;
     padding: 0;
-    display: inline;
     border: solid 1px green;
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
     box-shadow: 0 2px 4px black;
