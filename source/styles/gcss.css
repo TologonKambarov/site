@@ -133,10 +133,6 @@ input::placeholder {
         display: flex;
         justify-content: space-between;
     }
-    .hrefbutton {
-        display: inline-flex;
-        justify-content: space-between;
-}
     
     h6 {
         display: inline-block;
@@ -145,10 +141,10 @@ input::placeholder {
         display: inline-block;
     }
 
-    .font-effect-anaglyph,
+    /*.font-effect-anaglyph,
     .font-effect-fire-animation {
         display: inline-block;
-    }
+    }*/
         
     }
     .d-flex {
