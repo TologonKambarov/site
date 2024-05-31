@@ -139,7 +139,7 @@ input:: placeholder {
         justify-content: space-between;
     }
     .hrefbutton {
-        gap: 10em;
+        gap: 5em;
     }
     
     h6 {
@@ -153,7 +153,8 @@ input:: placeholder {
     .font-effect-fire-animation {
         display: inline-block;
     }
-    input:: placeholder {
+    input:: placeholder 
+    input {
         width: 5em;
         height: 2em;
         font-size: 1.5em;
