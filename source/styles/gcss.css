@@ -19,26 +19,20 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 .hrefbutton {
     display: flex;
     justify-content: space-between;
-    gap: 1px;
+    gap: 1em;
     margin: 0.5px;
 }
 
-input:: placeholder {
-    width: 30px;
-    height: 10px;
-    font-size: 10px;
+input::placeholder {
+    width: 10px;
+    height: 6px;
+    font-size: 5px;
     color: red;
-    background-color: cyne;
 }
 .d-flex {
-    box-shadow: 0 2px 4px black;
+    box-shadow: 0 1px 2px black;
 }
 
-input::placeholder {
-    color: red;
-    font-size: 10px;
-    font-style: italic;
-}
 .navbar-toggler-icon {
     text-aligne: right;
     
@@ -170,7 +164,7 @@ input::placeholder {
     .qr {
         display: inline-block;
     }
-    .d-flex,
+
     .font-effect-anaglyph,
     .font-effect-fire-animation {
         display: inline-block;
