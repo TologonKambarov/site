@@ -15,10 +15,10 @@ body {
 .font-effect-3d {background: rgb(131,58,180);
 background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
 }
-input {
-    width: 25px;
-    height: 15px;
-    font-size: 10px;
+input:: placeholder {
+    width: 30px;
+    height: 20px;
+    font-size: 18px;
 }
 
 .dropdown-item {
@@ -134,7 +134,7 @@ input {
         justify-content: space-between;
     }
     .hrefbutton {
-        gap: 100px
+        gap: 150px
     }
     
     h6 {
@@ -146,7 +146,7 @@ input {
     .d-flex,
     .font-effect-anaglyph,
     .font-effect-fire-animation {
-        display: block;
+        display: inline-block;
     }
     input:: placeholder {
         width: 100px;
