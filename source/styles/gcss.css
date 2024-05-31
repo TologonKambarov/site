@@ -16,12 +16,12 @@ body {
 background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
 }
 
-.hrefbutton>span {
+.hrefbutton {
     display: flex;
     justify-content: space-between;
     gap: 1px;
     margin: 0.5px;
-    padding: 0;
+    padding: 0.5px;
 }
 
 input:: placeholder {
@@ -151,12 +151,12 @@ input:: placeholder {
         display: flex;
         justify-content: space-between;
     }
-    .hrefbutton>span {
+    .hrefbutton {
     display: flex;
     justify-content: space-between;
-    gap: 10px;
-    margin: 0.5px;
-    padding: 0;
+    gap: 2em;
+    margin: 0.5em;
+    padding: 0%;
 }
     
     h6 {
