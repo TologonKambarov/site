@@ -33,6 +33,12 @@ input:: placeholder {
 .d-flex {
     box-shadow: 0 2px 4px black;
 }
+
+input::placeholder {
+    color: red;
+    font-size: 10px;
+    font-style: italic;
+}
 .navbar-toggler-icon {
     text-aligne: right;
     
@@ -155,7 +161,7 @@ input:: placeholder {
     justify-content: space-between;
     gap: 2em;
     margin: 1px;
-    padding: 0%;
+    padding: 1%;
 }
     
     h6 {
