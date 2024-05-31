@@ -18,8 +18,9 @@ input {
     font-size: 1em;
     color: green;
     box-shadow: 0 2px 4px black;
-    margin-left: 0.2em;
-    margin-right: 0.2em;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
+    padding: 0;
 }
 
 .dropdown-item {
@@ -80,13 +81,14 @@ input {
 .font-effect-3d {
     font-size: auto;
     padding-top: 5px;
+    padding-right: 0.1em;
     color: rgb(255, 248, 248);
 }
 
 .font-effect-anaglyph {
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
     margin-right: 0.5em;
-    padding: 0.2em;
+    padding: 1px;
     font-size: auto;
     border: solid 1px green;
     box-shadow: 0 2px 4px black;
@@ -99,7 +101,7 @@ input {
 .font-effect-fire-animation {
     font-size: auto;
     margin-right: 0.5em;
-    padding: 0,2em;
+    padding: 1px;
     border: solid 1px green;
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
     box-shadow: 0 2px 4px black;
