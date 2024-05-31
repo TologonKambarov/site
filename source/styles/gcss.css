@@ -19,7 +19,9 @@ input {
     color: green;
     box-shadow: 0 2px 4px black;
     margin-left: 0.2em;
+    margin-right: 0.2em;
     padding-left: 0.2em;
+    padding-right: 0.2em;
 }
 
 .dropdown-item {
