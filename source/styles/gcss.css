@@ -139,7 +139,7 @@ input:: placeholder {
         justify-content: space-between;
     }
     .hrefbutton {
-        gap: 140px
+        gap: 10em;
     }
     
     h6 {
@@ -154,9 +154,11 @@ input:: placeholder {
         display: inline-block;
     }
     input:: placeholder {
-        width: 100px;
-        height: 50px;
+        width: 5em;
+        height: 2em;
         font-size: 1.5em;
+        color: red;
+        box-shadow: 0 2px 4px black;
     }
 
     }
