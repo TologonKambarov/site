@@ -20,6 +20,10 @@ input:: placeholder {
     height: 20px;
     font-size: 18px;
 }
+.navbar-toggler-icon {
+    text-aligne: right;
+    
+}
 
 .dropdown-item {
     background: linear-gradient(180deg, #5fe8a1 0%, #ffffff 100%);
@@ -134,7 +138,7 @@ input:: placeholder {
         justify-content: space-between;
     }
     .hrefbutton {
-        gap: 150px
+        gap: 140px
     }
     
     h6 {
