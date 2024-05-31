@@ -151,9 +151,13 @@ input:: placeholder {
         display: flex;
         justify-content: space-between;
     }
-    .hrefbutton {
-        gap: 5em;
-    }
+    .hrefbutton>span {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin: 0.5px;
+    padding: 0;
+}
     
     h6 {
         display: inline-block;
