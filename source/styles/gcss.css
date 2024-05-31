@@ -19,8 +19,9 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 .hrefbutton>span {
     display: flex;
     justify-content: space-between;
-    gap: 1em;
-    margin: 0.5em;
+    gap: 1px;
+    margin: 0.5px;
+    padding: 0;
 }
 
 input:: placeholder {
