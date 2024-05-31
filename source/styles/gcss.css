@@ -5,12 +5,8 @@ body {
 }
 
 .image {
-    height: auto;
     display: flex;
-    width: auto;
     justify-content: space-between;
-    margin: 0;
-    padding: 0;
 }
 .font-effect-3d {background: rgb(131,58,180);
 background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
@@ -19,13 +15,9 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 .hrefbutton {
     display: flex;
     justify-content: space-between;
-    gap: 1em;
-    margin: 0.5px;
 }
 
 input::placeholder {
-    width: 10px;
-    height: 6px;
     font-size: 5px;
     color: red;
 }
@@ -154,9 +146,6 @@ input::placeholder {
     .hrefbutton {
     display: flex;
     justify-content: space-between;
-    gap: 2em;
-    margin: 1px;
-    padding: 1%;
 }
     
     h6 {
@@ -168,7 +157,7 @@ input::placeholder {
 
     .font-effect-anaglyph,
     .font-effect-fire-animation {
-        display: inline-block;
+        display: inline-flex;
     }
         
     }
