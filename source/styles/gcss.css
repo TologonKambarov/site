@@ -16,7 +16,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 
 input {
     font-size: 1em;
-    color: green;
+    color: red;
     box-shadow: 0 2px 4px black;
     margin-left: 0.2em;
     margin-right: 0.2em;
@@ -141,11 +141,6 @@ input {
     .qr {
         display: inline-block;
     }
-
-    /*.font-effect-anaglyph,
-    .font-effect-fire-animation {
-        display: inline-block;
-    }*/
         
     }
     
