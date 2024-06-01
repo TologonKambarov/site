@@ -147,10 +147,7 @@ input {
     .qr {
         display: inline-block;
     }
-    img {
-        width: 1px;
-        display: inline-block;
-    }
+    
     p {
         display: inline-block;
     }
