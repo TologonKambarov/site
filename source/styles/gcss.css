@@ -68,7 +68,7 @@ input {
     height: auto;
     display: block;
     width: 90%;
-    text-align: left;
+    text-align: center;
     padding-top: 0.1%;
 }
 
@@ -147,6 +147,8 @@ input {
     .qr {
         display: inline-block;
     }
-    
+    img {
+        width: 1px;
+    }
     }
 
