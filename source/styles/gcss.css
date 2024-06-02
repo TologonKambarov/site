@@ -152,12 +152,7 @@ video {
     p {
         display: inline-block;
     }
-    video {
-    width: auto;
-    
-    text-align: center;
-    padding-top: 0.1%;
-}
+
 
     }
     
