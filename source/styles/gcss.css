@@ -67,7 +67,10 @@ input {
 }
 
 video {
-    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 200px;
     padding: 0;
     text-align: center;
     margin-top: 0.1%;
