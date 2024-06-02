@@ -25,9 +25,9 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 input {
     font-size: 1em;
     color: red;
+    font-style: italic;
     box-shadow: 0 2px 4px black;
-    margin-left: 0.2em;
-    margin-right: 0.2em;
+    margin: 0.2em;
     padding-left: 0.2em;
     padding-right: 0.2em;
 }
