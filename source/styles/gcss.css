@@ -23,13 +23,13 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 }
 
 input {
-    font-size: 1em;
+    font-size: auto;
     color: red;
     font-style: italic;
     box-shadow: 0 2px 4px black;
-    margin: 0.5em;
-    padding-left: 0.2em;
-    padding-right: 0.2em;
+    margin: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
 }
 
 .dropdown-item {
