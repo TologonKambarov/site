@@ -67,8 +67,8 @@ input {
 }
 
 video {
-    width: auto;
-    display: inline;;
+    width: 400px;
+    display: flex;
     text-align: center;
     padding-top: 0.1%;
 }
@@ -156,8 +156,8 @@ video {
         display: inline-block;
     }
     video {
-    width: 500px;
-    display: flex;
+    width: auto;
+    display: inline-block;
     text-align: center;
     padding-top: 0.1%;
 }
