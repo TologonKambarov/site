@@ -68,9 +68,9 @@ input {
 
 video {
     width: 400px;
-    
+    padding: 0;
     text-align: center;
-    padding-top: 0.1%;
+    margin-top: 0.1%;
 }
 
 .font-effect-outline {
@@ -156,7 +156,7 @@ video {
         display: inline-block;
     }
     video {
-    width: 800px;
+    width: auto;
     
     text-align: center;
     padding-top: 0.1%;
