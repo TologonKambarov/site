@@ -66,9 +66,9 @@ input {
     background: linear-gradient(315deg, #fffeff 0%, #6ef705 100%);
 }
 
-.bg {
-    width: 200;
-    display: block;
+video {
+    width: 100px;
+    display: flex;
     text-align: center;
     padding-top: 0.1%;
     background-color: red;
