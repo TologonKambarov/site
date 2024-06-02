@@ -155,7 +155,12 @@ video {
     p {
         display: inline-block;
     }
+    video {
+    width: 800px;
     
+    text-align: center;
+    padding-top: 0.1%;
+}
 
     }
     
