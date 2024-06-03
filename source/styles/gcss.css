@@ -135,8 +135,8 @@ h4 {
 
 @media (
     min-width:768px) {
-    /*.col-lg-6,
-    .col-lg-4,*/
+    .col-lg-6,
+    .col-lg-4,
     .contact,
     .hrefbutton 
     .image {
