@@ -136,8 +136,8 @@ h4 {
 
 @media (
     min-width:768px) {
-    .col-lg-6,
-    .col-lg-4,
+    /*.col-lg-6,
+    .col-lg-4,*/
     .contact,
     .hrefbutton 
     .image {
@@ -158,19 +158,6 @@ h4 {
     p {
         display: inline-block;
     }
-  /*  .col-lg-6 {
-    height: auto;
-    width: 100%;
-}
-
-video {
-    height: auto;
-    width: 1000px;
-}
-h4 {
-    height: auto;
-    text-align: content;
-}*/
 
     }
     
