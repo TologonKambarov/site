@@ -155,6 +155,7 @@ video {
     }
     video {
         display: inline-block;
+        width: 70%;
     }
 
     }
