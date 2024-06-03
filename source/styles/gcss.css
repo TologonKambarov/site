@@ -65,6 +65,7 @@ input {
 #collapseThree {
     background: linear-gradient(315deg, #fffeff 0%, #6ef705 100%);
 }
+
 .col-lg-6 {
     height: auto;
     width: 50%;
@@ -73,6 +74,10 @@ input {
 video {
     height: auto;
     width: 100px;
+}
+h4 {
+    height: auto;
+    text-align: content;
 }
 
 .font-effect-outline {
@@ -152,12 +157,19 @@ video {
     p {
         display: inline-block;
     }
-    video {
-        display: inline-block;
-        width: 300px;
-        text-align: content;
-        
-    }
+    .col-lg-6 {
+    height: auto;
+    width: 100%;
+}
+
+video {
+    height: auto;
+    width: 1000px;
+}
+h4 {
+    height: auto;
+    text-align: content;
+}
 
     }
     
