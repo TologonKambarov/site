@@ -67,10 +67,10 @@ input {
 }
 
 video {
-        display: inline-block;
-        width: 50%;
-        text-align: content;
-    
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0;
 }
 
 .font-effect-outline {
