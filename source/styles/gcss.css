@@ -71,6 +71,7 @@ video {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 0;
+    width: 100px;
 }
 
 .font-effect-outline {
