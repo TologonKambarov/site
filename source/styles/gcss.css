@@ -76,7 +76,7 @@ video {
     font-size: auto;
     text-align: center;
 }
-.col-lg-4 {
+.col-lg-6 {
     display: flex;
     justify-content: space-between;
     padding: 0%;
@@ -132,7 +132,7 @@ video {
 
 @media (
     min-width:768px) {
-    .col-lg-4,
+    .col-lg-6,
     .contact,
     .hrefbutton 
     .image {
@@ -155,7 +155,9 @@ video {
     }
     video {
         display: inline-block;
-        width: 70%;
+        width: 80%;
+        text-align: center;
+        
     }
 
     }
