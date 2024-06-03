@@ -73,7 +73,8 @@ input {
 
 video {
     height: auto;
-    width: 100px;
+    width: 500px;
+    text-align: content;
 }
 h4 {
     height: auto;
@@ -157,7 +158,7 @@ h4 {
     p {
         display: inline-block;
     }
-    .col-lg-6 {
+  /*  .col-lg-6 {
     height: auto;
     width: 100%;
 }
@@ -169,7 +170,7 @@ video {
 h4 {
     height: auto;
     text-align: content;
-}
+}*/
 
     }
     
