@@ -68,7 +68,7 @@ input {
 
 .col-lg-6 {
     height: auto;
-    width: 100%;
+    width: 100vh;
 }
 
 video {
