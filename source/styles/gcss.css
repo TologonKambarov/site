@@ -76,7 +76,7 @@ input {
 
 video {
     display: flex;
-    text-align: content;
+    justify-content: space-between;
     padding: 0;
     margin: 0;
     width: 50%;
@@ -166,7 +166,7 @@ h4 {
     video {
         margin: 0px;
         padding: 0px;
-        width: 150vh;
+        width: 100vh;
         text-align: content;
     }
     }
