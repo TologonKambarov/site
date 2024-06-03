@@ -68,7 +68,7 @@ input {
 }
 
 .col-lg-6 {
-    height: 100vh;
+    width: 100vh;
     padding: 0;
     margin: 0;
 }
@@ -78,6 +78,7 @@ video {
     text-align: content;
     padding: 0;
     margin: 0;
+    width: auto;
 }
 
 h4 {
