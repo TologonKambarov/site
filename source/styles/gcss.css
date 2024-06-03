@@ -73,7 +73,7 @@ input {
 
 video {
     height: auto;
-    width: 400px;
+    width: auto;
     text-align: content;
 }
 h4 {
