@@ -35,7 +35,7 @@ input {
 .dropdown-item {
     background: linear-gradient(180deg, #5fe8a1 0%, #ffffff 100%);
     padding: 0.5%;
-    margin: 0.5%;
+    margin: 0;
     display: inline-block;
 }
 
@@ -45,13 +45,13 @@ input {
     font-weight: unset;
     font-family: Tahoma;
     font-style: oblique;
-    margin: 0.5%;
+    margin: 0;
     padding: 0.5%;
 }
 
 .col-lg-2 {
     background: linear-gradient(90deg, #fffeff 0%, #6ef705 100%);
-    margin: 0.5%;
+    margin: 0;
     padding: 0.5%
 }
 
@@ -72,8 +72,8 @@ input {
 }
 
 video {
+    display: flex;
     height: auto;
-    width: auto;
     text-align: content;
 }
 h4 {
@@ -144,7 +144,7 @@ h4 {
         justify-content: space-between;
         flex-wrap: wrap;
         padding: 0;
-    
+        margin: 0;
     }
     
     h6 {
