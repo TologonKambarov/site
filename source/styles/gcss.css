@@ -84,6 +84,7 @@ video {
 
 h4 {
     text-align: content;
+    color: black;
 }
 
 .font-effect-outline {
@@ -169,5 +170,9 @@ h4 {
         width: 100vh;
         text-align: content;
     }
+    h4 {
+    text-align: content;
+    color: yellow;
+}
     }
     
