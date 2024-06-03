@@ -79,13 +79,6 @@ video {
     font-size: auto;
     text-align: center;
 }
-/*.col-lg-6 {
-    display: flex;
-    justify-content: space-between;
-    padding: 0%;
-    margin: 0%;
-    text-align: center;
-}*/
 
 .font-effect-3d {
     font-size: auto;
@@ -159,7 +152,7 @@ video {
     }
     video {
         display: inline-block;
-        width: 80%;
+        width: 100px;
         text-align: content;
         
     }
