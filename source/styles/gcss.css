@@ -65,12 +65,13 @@ input {
 #collapseThree {
     background: linear-gradient(315deg, #fffeff 0%, #6ef705 100%);
 }
+.col-lg-6 {
+    height: auto;
+    width: 50%;
+}
 
 video {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    padding: 0;
+    height: auto;
     width: 100px;
 }
 
