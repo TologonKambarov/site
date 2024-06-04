@@ -87,12 +87,14 @@ h4 {
     text-align: content;
     color: gold;
 }
- .Img123 {
+.Img123 {
      display: flex;
+     flex-wrap: wrap;
      justify-content: space-between;
-    width: 30vh;
+    width: 30%;
     padding: 0;
-    margin: 0.5px;
+    margin: 1px;
+    border: 1 solid 1 red;
  }
 
 
