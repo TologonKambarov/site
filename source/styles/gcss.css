@@ -102,7 +102,7 @@ h4 {
 .Img1 {
     display: inline-block;
     text-align: content;
-    width: 30%;
+    width: content;
     radius: 8px;
     
 }
