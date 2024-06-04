@@ -102,11 +102,15 @@ h4 {
 .Img1 {
     display: inline-block;
     text-align: content;
-    width: content;
-    radius: 8px;
+    width: 100px;
+    radius: 4px;
     
 }
-
+.qr
+    {
+        display: inline-block;
+        width: 50px;
+    }
 .font-effect-outline {
     display: block;
     color: red;
@@ -179,10 +183,15 @@ h4 {
     h6 {
         display: inline-block;
     }
-    .qr, 
-    .Img1,
+    .qr
     {
         display: inline-block;
+        width: 100px;
+    }
+    .Img1
+    {
+        display: inline-block;
+        width: 200px;
     }
     
     
