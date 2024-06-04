@@ -67,14 +67,14 @@ input {
     background: linear-gradient(315deg, #fffeff 0%, #6ef705 100%);
 }
 
-/*.col-lg-6 {
+.col-lg-6 {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
     width: 100vh;
     padding: 0;
     margin: 0;
-}*/
+}
 
 video {
     display: inline-flex;
@@ -106,11 +106,7 @@ h4 {
     radius: 4px;
     
 }
-.qr
-    {
-        display: inline-block;
-        width: 50px;
-    }
+
 .font-effect-outline {
     display: block;
     color: red;
