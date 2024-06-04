@@ -161,7 +161,6 @@ h4 {
     .col-lg-4,
     .contact,
     .hrefbutton,
-    .Img123
     {
         display: flex;
         justify-content: space-between;
@@ -173,7 +172,9 @@ h4 {
     h6 {
         display: inline-block;
     }
-    .qr {
+    .qr, 
+    .Img123,
+    {
         display: inline-block;
     }
     
