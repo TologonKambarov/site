@@ -100,8 +100,8 @@ h4 {
  }
 
 .Img1 {
-    display: inline-block;
-    text-align: content;
+    display: block;
+    text-align: center;
     width: 100px;
     radius: 4px;
     
