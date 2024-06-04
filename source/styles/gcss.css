@@ -70,6 +70,7 @@ input {
 .col-lg-6 {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     width: 100vh;
     padding: 0;
     margin: 0;
@@ -78,6 +79,7 @@ input {
 video {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     padding: 0;
     margin: 0;
     width: 100%;
@@ -91,10 +93,9 @@ h4 {
      display: flex;
      flex-wrap: wrap;
      justify-content: space-between;
-    width: 30%;
+    width: 100px;
     padding: 0;
     margin: 1px;
-    border: 1 solid 1 red;
  }
 
 
