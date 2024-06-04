@@ -100,6 +100,7 @@ h4 {
     padding-top: 5px;
     padding-right: 0.1em;
     color: rgb(255, 248, 248);
+    display: inline-block;
 }
 
 .font-effect-anaglyph {
@@ -175,6 +176,7 @@ h4 {
         text-align: content;
     }
     h4 {
+        display: block;
     text-align: content;
     color: yellow;
 }
