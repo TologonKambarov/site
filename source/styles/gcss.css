@@ -94,7 +94,7 @@ h4 {
      display: flex;
      flex-wrap: wrap;
      justify-content: space-between;
-    width: 100px;
+    text-align: center;
     padding: 0;
     margin: 1px;
  }
@@ -177,6 +177,7 @@ h4 {
         display: inline-block;
     }
     
+    
     p {
         display: inline-block;
     }
@@ -186,13 +187,13 @@ h4 {
     video {
         margin: 0px;
         padding: 0px;
-        width: 90%;
+        width: 80%;
         text-align: content;
     }
     h4 {
         display: block;
     text-align: content;
-    color: yellow;
+    color: gold;
 }
     }
     
