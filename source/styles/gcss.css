@@ -11,6 +11,7 @@ a {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 0;
+    margin: 1px;
 }
 
 .font-effect-3d {background: rgb(131,58,180);
@@ -30,7 +31,7 @@ input {
 .dropdown-item {
     background: linear-gradient(180deg, #5fe8a1 0%, #ffffff 100%);
     padding: 0.1px;
-    margin: 0;
+    margin: 0.1px;
     display: inline-block;
 }
 
@@ -40,13 +41,13 @@ input {
     font-weight: unset;
     font-family: Tahoma;
     font-style: oblique;
-    margin: 0;
+    margin: 0.1px;
     padding: 0.1px;
 }
 
 .col-lg-2 {
     background: linear-gradient(90deg, #fffeff 0%, #6ef705 100%);
-    margin: 0;
+    margin: 0.1px;
     padding: 0;
 }
 
@@ -67,7 +68,7 @@ input {
     flex-wrap: wrap;
     width: 100vh;
     padding: 0;
-    margin: 0;
+    margin: 0.1px;
     position: relative;
 }
 
@@ -77,6 +78,7 @@ video {
     margin: 1px;
     width: 100%;
     text-align: center;
+    margin: 0.1px;
 }
 
 h4 {
@@ -91,6 +93,7 @@ h4 {
   color: aqua;
   font-size: 10px;
   font-weight: light;
+    margin: 1px;
 }
 
 .col-lg-4 {
@@ -99,7 +102,7 @@ h4 {
     flex-wrap: wrap;
     width: 100vh;
     padding: 0;
-    margin: 0;
+    margin: 1px;
 }
 
 .contact {
@@ -107,49 +110,16 @@ h4 {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 0;
+    margin: 0.1px;
 }
 
 .qr {
+    margin: 1px;
   filter: brightness(150%);
     text-align: center;
-    width: 30%;
+    width: 10%;
 
 }
-
-/*
-.qr {
-  width: 300px;
-  height: 300px;
-  object-fit: cover;
-}
-
-.qr {
-  border-radius: 10px;
-}
-
-// HTML
-<div class="image-container">
-  <img src="https://source.unsplash.com/tMHAmxLyzvA" alt="Boston city skyline" >
-  <div class="image-text">Welcome to Kinsta</div>
-</div>
-
-// CSS
-
-.qr {
-  position: relative;
-}
-
-
-.ahref {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 1;
-  color: white;
-  font-size: 20px;
-  font-weight: bold;
-} */
 
 .font-effect-outline {
     display: block;
@@ -193,7 +163,7 @@ h4 {
 }
 .font-effect-neon {
     font-size: auto;
-    margin: 0;
+    margin: 0.1px;
     padding: 1.5px;
     margin-left: 2px;
     display: inline-block;
@@ -238,16 +208,17 @@ h4 {
         text-align: center;
     }
     h4 {
-        display: inline;
+        display: inline-flex;
     text-align: center;
 
     position: absolute;
-  top: 5%;
+  top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 1;
   color: gold;
-  font-size: 20px;
+  font-size: 10px;
   font-weight: light;
+        margin: 1px;
 }
     }
