@@ -101,6 +101,29 @@ h4 {
   border-radius: 10px;
 }
 
+/*// HTML
+<div class="image-container">
+  <img src="https://source.unsplash.com/tMHAmxLyzvA" alt="Boston city skyline" >
+  <div class="image-text">Welcome to Kinsta</div>
+</div>
+
+// CSS*/
+
+.qr {
+  position: relative;
+}
+
+
+.image-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
 .font-effect-outline {
     display: block;
     color: red;
