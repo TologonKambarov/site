@@ -14,6 +14,10 @@ a {
     margin: 1px;
 }
 
+.carousel-item {
+    width: 90%
+}
+
 input {
     font-size: auto;
     color: red;
