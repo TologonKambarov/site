@@ -115,7 +115,7 @@ h4 {
 }
 
 
-.image-text {
+.ahref {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -125,6 +125,7 @@ h4 {
   font-size: 20px;
   font-weight: bold;
 }
+
 .font-effect-outline {
     display: block;
     color: red;
