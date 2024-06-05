@@ -94,10 +94,11 @@ h4 {
 .qr {
   width: 300px;
   height: 300px;
-  object-fit: cover#fffe
-    
+  object-fit: cover;
+}
+
 .qr {
-  border-radius: 4px;
+  border-radius: 10px;
 }
 
 .font-effect-outline {
@@ -159,7 +160,7 @@ h4 {
     .col-lg-6,
     .col-lg-4,
     .contact,
-    .hrefbutton
+    .hrefbutton,
     {
         display: flex;
         justify-content: space-between;
