@@ -182,4 +182,9 @@ h4 {
     color: gold;
 }
     }
-    
+
+@media screen and (max-width: 768px) {
+  .qr {
+    max-width: 50%;
+  }
+}
