@@ -98,16 +98,6 @@ h4 {
     padding: 0;
 }
 
-/*.col-lg-4 {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    width: 100vh;
-    padding: 0;
-    margin: 0;
-    text-align: center;
-}*/
-
 .contact {
     display: flex;
     justify-content: space-between;
@@ -116,13 +106,13 @@ h4 {
     margin: 0;
 }
 
-/*.qr {
+.qr {
     display: inline-block;
     margin: 1px;
   filter: brightness(150%);
     text-align: center;
     width: 100%;
-}*/
+}
 
 .font-effect-outline {
     display: block;
@@ -185,7 +175,6 @@ h4 {
 @media (
     min-width:768px) {
     .col-lg-6,
-    /*.col-lg-4,*/
     .contact,
     .hrefbutton
     {
