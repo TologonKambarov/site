@@ -105,6 +105,9 @@ h4 {
     padding: 0;
     margin: 0;
 }
+.col-lg-4 {
+    display: flex;
+}
 
 .qr {
     display: inline-block;
