@@ -114,6 +114,7 @@ h4 {
 }
 
 .qr {
+    display: flex;
     margin: 1px;
   filter: brightness(150%);
     text-align: center;
