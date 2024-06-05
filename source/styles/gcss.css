@@ -87,7 +87,7 @@ h4 {
 
     position: absolute;
   top: 5%;
-  left: 50%;
+  left: 30%;
   transform: translate(-50%, -50%);
   z-index: 1;
   color: aqua;
@@ -115,13 +115,11 @@ h4 {
 }
 
 .qr {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+    display: block;
     margin: 1px;
   filter: brightness(150%);
     text-align: center;
-    width: 50%;
+    width: 10%;
     
 
 }
@@ -226,18 +224,16 @@ h4 {
   transform: translate(-50%, -50%);
   z-index: 1;
   color: gold;
-  font-size: 10px;
+  font-size: 20px;
   font-weight: light;
         margin: 0;
 padding: 0;
 }
     .qr {
-       display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+       display: block;
     margin: 1px;
   filter: brightness(150%);
     text-align: center;
-    width: 50%; 
+    width: 10%; 
     }
     }
