@@ -82,14 +82,14 @@ video {
 
 h4 {
     display: inline-flex;
-    text-align: content;
+    text-align: center;
 
     position: absolute;
   top: 1%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 1;
-  color: gold;
+  color: red;
   font-size: 5px;
   font-weight: normal;
 }
@@ -228,7 +228,7 @@ h4 {
     }
     h4 {
         display: block;
-    text-align: content;
+    text-align: center;
     color: gold;
 }
     }
