@@ -85,13 +85,13 @@ h4 {
     text-align: content;
 
     position: absolute;
-  top: 10%;
+  top: 1%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 1;
-  color: white;
-  font-size: 10px;
-  font-weight: bold;
+  color: gold;
+  font-size: 5px;
+  font-weight: normal;
 }
 
 .contact {
