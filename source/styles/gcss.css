@@ -90,22 +90,6 @@ h4 {
     text-align: content;
     color: gold;
 }
-.Img123 {
-     display: flex;
-     flex-wrap: wrap;
-     justify-content: space-between;
-    text-align: center;
-    padding: 0;
-    margin: 1px;
- }
-
-.Img1 {
-    display: block;
-    text-align: center;
-    width: 100px;
-    radius: 4px;
-    
-}
 
 .font-effect-outline {
     display: block;
@@ -166,8 +150,7 @@ h4 {
     .col-lg-6,
     .col-lg-4,
     .contact,
-    .hrefbutton,
-    .Img123,
+    .hrefbutton
     {
         display: flex;
         justify-content: space-between;
@@ -178,11 +161,6 @@ h4 {
     
     h6 {
         display: block;
-    }
-    .Img1
-    {
-        display: inline-block;
-        width: 200px;
     }
     
     
