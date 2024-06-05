@@ -69,7 +69,7 @@ input {
     width: 100vh;
     padding: 0;
     margin: 0;
-    text-align: content;
+    text-align: center;
     position: relative;
 }
 
@@ -105,7 +105,7 @@ h4 {
     width: 100vh;
     padding: 0;
     margin: 0;
-    text-align: content;
+    text-align: center;
 }
 
 .contact {
@@ -121,9 +121,7 @@ h4 {
     margin: 1px;
   filter: brightness(150%);
     text-align: center;
-    width: 10%;
-    
-
+    width: 100%;
 }
 
 .font-effect-outline {
@@ -233,9 +231,10 @@ padding: 0;
 }
     .qr {
        display: inline-block;
-    margin: 1px;
+    margin: 0;
+padding: 0;
   filter: brightness(150%);
     text-align: center;
-    width: 10%; 
+    width: 100%; 
     }
     }
