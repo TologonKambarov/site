@@ -101,7 +101,7 @@ h4 {
     padding: 0;
 }
 
-img {
+.qr {
   filter: brightness(150%);
 }
 
