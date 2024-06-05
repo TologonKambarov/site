@@ -111,10 +111,11 @@ h4 {
 
 .qr {
     display: inline-block;
-    margin: 1px;
+    margin: 0;
+padding: 0;
+
   filter: brightness(150%);
     text-align: center;
-    width: 100%;
 }
 
 .font-effect-outline {
@@ -203,9 +204,9 @@ h4 {
     
     }
     video {
-        margin: 1px;
-        padding: 0px;
-        width: 90%;
+        margin: 0;
+        padding: 0;
+        width: 80%;
         text-align: center;
     }
     h4 {
