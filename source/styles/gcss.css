@@ -47,7 +47,7 @@ input {
 
 .col-lg-2 {
     background: linear-gradient(90deg, #fffeff 0%, #6ef705 100%);
-    margin: 0.1px;
+    margin: 0;
     padding: 0;
 }
 
@@ -68,7 +68,7 @@ input {
     flex-wrap: wrap;
     width: 100vh;
     padding: 0;
-    margin: 0.1px;
+    margin: 0;
     position: relative;
 }
 
@@ -78,7 +78,7 @@ video {
     margin: 1px;
     width: 100%;
     text-align: center;
-    margin: 0.1px;
+    margin: 0;
 }
 
 h4 {
@@ -86,14 +86,15 @@ h4 {
     text-align: center;
 
     position: absolute;
-  top: 1%;
-  left: 90%;
+  top: 0%;
+  left: 0%;
   transform: translate(-50%, -50%);
   z-index: 1;
   color: aqua;
   font-size: 10px;
   font-weight: light;
     margin: 0;
+    padding: 0;
 }
 
 .col-lg-4 {
@@ -102,7 +103,7 @@ h4 {
     flex-wrap: wrap;
     width: 100vh;
     padding: 0;
-    margin: 1px;
+    margin: 0;
 }
 
 .contact {
@@ -110,7 +111,7 @@ h4 {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 0;
-    margin: 0.1px;
+    margin: 0;
 }
 
 .qr {
@@ -120,7 +121,8 @@ h4 {
     margin: 1px;
   filter: brightness(150%);
     text-align: center;
-    width: 100%;
+    width: 50%;
+    
 
 }
 
