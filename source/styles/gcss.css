@@ -112,7 +112,7 @@ h4 {
 .qr {
   filter: brightness(150%);
     text-align: center;
-    width: 50%;
+    width: 30%;
 
 }
 
@@ -229,6 +229,7 @@ h4 {
     }
     .col-lg-6 {
         width: 100vh;
+        position: relative;
     }
     video {
         margin: 1px;
@@ -237,9 +238,16 @@ h4 {
         text-align: center;
     }
     h4 {
-        display: block;
+        display: inline;
     text-align: center;
-    color: gold;
-        font-size: 100px;
+
+    position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: gold;
+  font-size: 20px;
+  font-weight: light;
 }
     }
