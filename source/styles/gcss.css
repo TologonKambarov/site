@@ -103,6 +103,7 @@ h4 {
 
 .qr {
   filter: brightness(150%);
+    text-align: center;
 }
 
 /*
