@@ -72,16 +72,15 @@ input {
 }
 
 video {
-    display: inline-flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+    display: inline;
     padding: 0;
     margin: 1px;
     width: 100%;
+    text-align: center;
 }
 
 h4 {
-    display: inline-flex;
+    display: inline;
     text-align: center;
 
     position: absolute;
@@ -92,6 +91,15 @@ h4 {
   color: red;
   font-size: 5px;
   font-weight: normal;
+}
+
+.col-lg-4 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100vh;
+    padding: 0;
+    margin: 0;
 }
 
 .contact {
