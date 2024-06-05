@@ -79,7 +79,6 @@ video {
     margin: 0;
     width: 100%;
     text-align: center;
-    margin: 0;
 }
 
 h4 {
@@ -204,22 +203,23 @@ padding: 0;
     
     }
     video {
+        display: inline-block;
         margin: 0;
         padding: 0;
-        width: 80%;
+        width: 100%;
         text-align: center;
     }
     h4 {
-        display: block;
+        display: inline-block;
     text-align: center;
     position: absolute;
-  top: 5%;
+  top: 6%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 1;
   color: gold;
   font-size: 10px;
-  font-weight: light;
+  font-weight: bold;
         margin: 0;
 padding: 0;
 }
