@@ -91,10 +91,13 @@ h4 {
     color: gold;
 }
 
-img {
+.qr {
   width: 300px;
   height: 300px;
-  object-fit: cover;
+  object-fit: cover#fffe
+    
+.qr {
+  border-radius: 4px;
 }
 
 .font-effect-outline {
