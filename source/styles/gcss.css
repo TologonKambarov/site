@@ -114,7 +114,7 @@ h4 {
 
 .qr {
     display: inline-block;
-    margin: 0.5px;
+    margin: 0;
     padding: 0;
     filter: brightness(120%);
     text-align: center;
@@ -143,7 +143,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 
 .font-effect-anaglyph {
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
-    margin: 0.5px;
+    margin: 1px;
     padding: 1px;
     font-size: 15px;
     border: solid 1px green;
@@ -157,7 +157,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 
 .font-effect-fire-animation {
     font-size: auto;
-    margin: 0.5px;
+    margin: 1px;
     padding: 1px;
     font-size: 15px;
     border: solid 1px green;
@@ -220,7 +220,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
     }
     
     h4 {
-        display: inline-block;
+    display: inline-block;
     text-align: center;
     position: absolute;
   top: 7%;
@@ -230,8 +230,8 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
   color: gold;
   font-size: 10px;
   font-weight: bolder;
-        margin: 1px;
-padding: 0;
+  margin: 1px;
+  padding: 0;
 }
 
 .qr {
@@ -244,9 +244,9 @@ padding: 0;
 
 .font-effect-anaglyph,
 .font-effect-fire-animation,
-font-effect-neon
+.font-effect-neon
     {
-margin: 5px;
+margin: 10px;
 }
 
 }
