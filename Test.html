@@ -19,13 +19,13 @@
     <link rel="manifest" href="source/files/favicon_io/site.webmanifest">
     <title>Photo</title>
 <style>
-#myImg {
+#myImg1 {
   border-radius: 5px;
   cursor: pointer;
   transition: 0.3s;
 }
 
-#myImg:hover {opacity: 0.7;}
+#myImg1:hover {opacity: 0.7;}
 
 /* The Modal (background) */
 .modal {
@@ -46,7 +46,7 @@
 .modal-content {
   margin: auto;
   display: block;
-  width: 50%;
+  width: 80%;
   max-width: 700px;
 }
 
@@ -54,7 +54,7 @@
 #caption {
   margin: auto;
   display: block;
-  width: 50%;
+  width: 80%;
   max-width: 700px;
   text-align: center;
   color: #ccc;
@@ -112,7 +112,7 @@
 <p>"М. Гапаров" жатак гимназиясы</p>
 <p>1986-жылкы бүтүрүүчүлөр</p>
 
-<img id="myImg" src="source/files/Img1.jpg" alt="2024-жыл" width="100" height="auto">
+<img id="myImg1" src="source/files/Img1.jpg" alt="2024-жыл" width="50" height="40">
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
@@ -126,7 +126,7 @@
 var modal = document.getElementById('myModal');
 
 // Get the image and insert it inside the modal - use its "alt" text as a caption
-var img = document.getElementById('myImg');
+var img = document.getElementById('myImg1');
 var modalImg = document.getElementById("img01");
 var captionText = document.getElementById("caption");
 img.onclick = function(){
