@@ -85,7 +85,9 @@
 }
 
 /* The Close Button */
-.close {
+.close1,
+.close2, 
+.close3 {
   position: absolute;
   top: 15px;
   right: 35px;
@@ -95,8 +97,12 @@
   transition: 0.3s;
 }
 
-.close:hover,
-.close:focus {
+.close1:hover,
+.close1:focus,
+.close2:hover,
+.close2:focus, 
+.close3:hover,
+.close3:focus {
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
@@ -182,17 +188,19 @@ img3.onclick = function(){
 }
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
+var span = document.getElementsByClassName("close1")[0];
+var span = document.getElementsByClassName("close2")[0];
+var span = document.getElementsByClassName("close3")[0];
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() { 
+span1.onclick = function() { 
   modal1.style.display = "none";
 }
 
-span.onclick = function() { 
+span2.onclick = function() { 
   modal2.style.display = "none";
 }
 
-span.onclick = function() { 
+span3.onclick = function() { 
   modal3.style.display = "none";
 }
     
