@@ -80,8 +80,8 @@ input {
 video {
     display: inline-block;
     padding: 0;
-    margin: 1px;
-    width: 95%;
+    margin: 2px;
+    width: 100%;
     text-align: center;
 }
 
@@ -109,12 +109,18 @@ h4 {
     margin: 0;
 }
 .col-lg-4 {
-    display: block;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100vh;
+    padding: 0;
+    margin: 0;
+    text-align: center;
 }
 
 .qr {
     display: inline-block;
-    margin: 0;
+    margin: 2px;
     padding: 0;
     filter: brightness(120%);
     text-align: center;
@@ -143,8 +149,8 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 
 .font-effect-anaglyph {
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
-    margin: 1px;
-    padding: 1px;
+    margin: 3px;
+    padding: 1.5px;
     font-size: 15px;
     border: solid 1px green;
     box-shadow: 0 2px 4px black;
@@ -157,8 +163,8 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 
 .font-effect-fire-animation {
     font-size: auto;
-    margin: 1px;
-    padding: 1px;
+    margin: 3px;
+    padding: 1.5px;
     font-size: 15px;
     border: solid 1px green;
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
@@ -171,7 +177,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 }
 .font-effect-neon {
     font-size: auto;
-    margin: 1px;
+    margin: 2px;
     padding: 1.5px;
     margin-left: 2px;
     display: inline-block;
@@ -236,7 +242,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 
 .qr {
     display: inline-block;
-    margin: 2px;
+    margin: 5px;
     padding: 0;
     filter: brightness(120%);
     text-align: center;
