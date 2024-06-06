@@ -143,7 +143,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 
 .font-effect-anaglyph {
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
-    margin: 0;
+    margin: 0.5px;
     padding: 1px;
     font-size: 15px;
     border: solid 1px green;
@@ -157,7 +157,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 
 .font-effect-fire-animation {
     font-size: auto;
-    margin: 0;;
+    margin: 0.5px;
     padding: 1px;
     font-size: 15px;
     border: solid 1px green;
@@ -233,4 +233,18 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
         margin: 1px;
 padding: 0;
 }
+
+.qr {
+    display: inline-block;
+    margin: 2px;
+    padding: 0;
+    filter: brightness(120%);
+    text-align: center;
+}
+
+.font-effect-anaglyph,
+.font-effect-fire-animation {
+margin: 1px;
+}
+
 }
