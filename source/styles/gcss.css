@@ -114,10 +114,9 @@ h4 {
 
 .qr {
     display: inline-block;
-    margin: 1px;
-padding: 0;
-
-  filter: brightness(120%);
+    margin: 0.5px;
+    padding: 0;
+    filter: brightness(120%);
     text-align: center;
 }
 
