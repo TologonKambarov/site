@@ -11,7 +11,7 @@ a {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 0;
-    margin: 1px;
+    margin: 0;
 }
 
 .carousel-item {
@@ -27,15 +27,15 @@ input {
     color: red;
     font-style: italic;
     box-shadow: 0 2px 4px black;
-    margin: 2px;
+    margin-bottom: 2px;
     padding-left: 1px;
     padding-right: 1px;
 }
 
 .dropdown-item {
     background: linear-gradient(180deg, #5fe8a1 0%, #ffffff 100%);
-    padding: 0.1px;
-    margin: 0.1px;
+    padding: 0;
+    margin: 0;
     display: inline-block;
 }
 
@@ -45,8 +45,8 @@ input {
     font-weight: unset;
     font-family: Tahoma;
     font-style: oblique;
-    margin: 0.1px;
-    padding: 0.1px;
+    margin: 0;
+    padding: 0;
 }
 
 .col-lg-2 {
@@ -81,7 +81,7 @@ video {
     display: inline-block;
     padding: 0;
     margin: 1px;
-    width: 90%;
+    width: 95%;
     text-align: center;
 }
 
@@ -91,7 +91,7 @@ h4 {
 
     position: absolute;
   top: 5%;
-  left: 50%;
+  left: 45%;
   transform: translate(-50%, -50%);
   z-index: 1;
   color: aqua;
@@ -106,7 +106,7 @@ h4 {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 0;
-    margin: 1px;
+    margin: 0;
 }
 .col-lg-4 {
     display: block;
@@ -144,9 +144,9 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 
 .font-effect-anaglyph {
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
-    margin-right: 0.5em;
+    margin: 0;
     padding: 1px;
-    font-size: auto;
+    font-size: 20px;
     border: solid 1px green;
     box-shadow: 0 2px 4px black;
     display: inline-block; 
@@ -158,8 +158,9 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 
 .font-effect-fire-animation {
     font-size: auto;
-    margin-right: 0.5em;
+    margin: 0;;
     padding: 1px;
+    font-size: 20px;
     border: solid 1px green;
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
     box-shadow: 0 2px 4px black;
