@@ -117,7 +117,9 @@ h4 {
     margin: 0;
     text-align: center;
 }
-
+div>.qr>omg {
+    width: 70%;
+}
 .qr {
     display: inline-block;
     margin: 2px;
