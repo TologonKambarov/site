@@ -117,8 +117,9 @@ h4 {
     margin: 0;
     text-align: center;
 }
-div>.qr>img {
-    width: 70%;
+div .qr img {
+   max-width: 80%;
+    width: auto;
 }
 .qr {
     display: inline-block;
@@ -257,6 +258,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 margin: 10px;
 }
 div .qr img {
-    width: 100%;
+   max-width: 100%;
+    width: auto;
 }
 }
