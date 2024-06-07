@@ -108,6 +108,10 @@ h4 {
     padding: 0;
     margin: 0;
 }
+.contact p a {
+    font-size: auto;
+    max-width: 100%;
+}
 .col-lg-4 {
     display: flex;
     justify-content: space-between;
@@ -262,6 +266,11 @@ div .qr img {
     width: auto;
 }
     
+.contact p a {
+    font-size: auto;
+    max-width: 150%;
+}
+
 p img #myImg1,
     #myImg2,
     #myImg3,
