@@ -261,4 +261,9 @@ div .qr img {
    max-width: 100%;
     width: auto;
 }
+    
+p img {
+    width: auto;
+    max-width: 100%;
+}
 }
