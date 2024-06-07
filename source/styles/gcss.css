@@ -162,10 +162,10 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 .font-effect-anaglyph {
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
     margin: 3px;
-    padding: 1.5px;
-    font-size: 15px;
-    border: solid 1px green;
-    box-shadow: 0 2px 4px black;
+    padding: 2px;
+    font-size: 13px;
+    border: solid 2px green;
+    box-shadow: 0 3px 6px black;
     display: inline-block; 
     cursor: pointer;
 }
@@ -176,11 +176,11 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 .font-effect-fire-animation {
     font-size: auto;
     margin: 3px;
-    padding: 1.5px;
-    font-size: 15px;
-    border: solid 1px green;
+    padding: 2px;
+    font-size: 13px;
+    border: solid 2px green;
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
-    box-shadow: 0 2px 4px black;
+    box-shadow: 0 3px 6px black;
     display: inline-block;
     cursor: pointer;
 }
@@ -190,12 +190,12 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 .font-effect-neon {
     font-size: auto;
     margin: 2px;
-    padding: 1.5px;
+    padding: 2px;
     margin-left: 2px;
     display: inline-block;
-    border: solid 0.5px green;
+    border: solid 1px green;
     color: hsla(240, 100%, 54%, 1);
-    box-shadow: 0 2px 4px black;
+    box-shadow: 0 3px 6px black;
     cursor: pointer;
 }
 .font-effect-neon:hover {
@@ -214,6 +214,15 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
         flex-wrap: wrap;
         padding: 0;
         margin: 0;
+    }
+    .font-effect-anaglyph,
+    .font-effect-fire-animation,
+    .font-effect-neon {
+        margin: 4px;
+    padding: 4px;
+    font-size: 20px;
+    border: solid 3px green;
+    box-shadow: 0 4px 8px black;
     }
     
     h5 {
