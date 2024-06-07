@@ -117,7 +117,7 @@ h4 {
     margin: 0;
     text-align: center;
 }
-div>.qr>omg {
+div>.qr>img {
     width: 70%;
 }
 .qr {
@@ -257,6 +257,6 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 margin: 10px;
 }
 div .qr img {
-    width: 70%;
+    width: 100%;
 }
 }
