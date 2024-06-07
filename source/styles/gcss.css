@@ -14,6 +14,11 @@ a {
     margin: 0;
 }
 
+.image button a {
+    width: 50px;
+    max-width: 150%;
+}
+
 .carousel-item {
     width: 95%
     text-align: content;
@@ -261,6 +266,12 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
     {
 margin: 10px;
 }
+    
+.image button a {
+    width: 100px;
+    max-width: 200%;
+}
+    
 div .qr img {
    max-width: 100%;
     width: auto;
