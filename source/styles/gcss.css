@@ -266,10 +266,10 @@ div .qr img {
     width: auto;
 }
     
-.contact p a {
+.contact p a img {
     font-size: auto;
     max-width: 150%;
-    width: 50px;
+    width: 40px;
 }
 
 p img #myImg1,
