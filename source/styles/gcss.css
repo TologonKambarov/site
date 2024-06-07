@@ -262,7 +262,31 @@ div .qr img {
     width: auto;
 }
     
-p img {
+p img #myImg1,
+    #myImg2,
+    #myImg3,
+    #myImg4,
+    #myImg5,
+    #myImg6,
+    #myImg7,
+    #myImg8,
+    #myImg9,
+    #myImg10,
+    #myImg11,
+    #myImg12,
+    #myImg13,
+    #myImg14,
+    #myImg15,
+    #myImg16,
+    #myImg17,
+    #myImg18,
+    #myImg19,
+    #myImg20,
+   #myImg21,
+    #myImg22,
+    #myImg23,
+    #myImg24
+    {
     width: auto;
     max-width: 100%;
 }
