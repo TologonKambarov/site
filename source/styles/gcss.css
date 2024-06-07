@@ -132,12 +132,15 @@ div .qr img {
 }
 .qr {
     display: inline-block;
-    margin: 1px;
-    padding: 0;
+    margin: 2px;
+    padding: 1px;
     filter: brightness(120%);
     text-align: center;
     border: solid 2px green;
     box-shadow: 0 3px 6px black;
+font-size: 10px;
+    width: auto;
+    max-width: 50%;
 }
 
 .font-effect-outline {
@@ -269,16 +272,16 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 .qr {
     display: inline-block;
     margin: 5px;
-    padding: 0;
+    padding: 1px;
     filter: brightness(120%);
     text-align: center;
-    border: solid 2px green;
-    box-shadow: 0 3px 6px black;
+    border: solid 3px green;
+    box-shadow: 0 4px 8px black;
 }
 
 .image .button {
-    width: 100px;
-    max-width: 200%;
+    width: 80px;
+    max-width: 100%;
 }
     
 div .qr img {
