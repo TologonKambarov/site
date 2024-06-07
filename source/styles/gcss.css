@@ -17,6 +17,10 @@ a {
 .image .button {
     width: 50px;
     max-width: 100%;
+    color: aqua;
+    font-style: oblique;
+    font-family: Tahoma;
+    
 }
 
 .carousel-item {
@@ -127,12 +131,14 @@ h4 {
     text-align: center;
 }
 div .qr img {
-   max-width: 60%;
+   max-width: 50%;
     width: auto;
+    padding: 0;
+    margin: 0;
 }
 .qr {
     display: inline-block;
-    margin: 2px;
+    margin: 4px;
     padding: 1px;
     filter: brightness(120%);
     text-align: center;
@@ -164,9 +170,11 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 
 .font-effect-anaglyph {
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
-    margin: 3px;
+    margin: 5px;
     padding: 2px;
-    font-size: 13px;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: 12px;
     border: solid 2px green;
     box-shadow: 0 3px 6px black;
     display: inline-block; 
@@ -178,9 +186,11 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 
 .font-effect-fire-animation {
     font-size: auto;
-    margin: 3px;
+    margin: 5px;
     padding: 2px;
-    font-size: 13px;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: 12px;
     border: solid 2px green;
     background: linear-gradient(180deg, #fffeff 0%, #6ef705 100%);
     box-shadow: 0 3px 6px black;
@@ -204,6 +214,9 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 .font-effect-neon:hover {
     text-decoration: none;
 }
+
+
+/* MEDIA */
 
 @media (
     min-width:700px) {
@@ -289,11 +302,16 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 .image .button {
     width: 80px;
     max-width: 100%;
+    color: aqua;
+    font-weight: bold;
+    font-family: Tahoma;
+    
 }
     
 div .qr img {
    max-width: 100%;
     width: auto;
+    
 }
     
 .contact p a img {
