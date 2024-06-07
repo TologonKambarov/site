@@ -269,7 +269,7 @@ margin: 10px;
 }
     
 .image .button {
-    width: 100px;
+    width: 200px;
     max-width: 200%;
 }
     
@@ -309,7 +309,7 @@ p img #myImg1,
     #myImg23,
     #myImg24
     {
-    width: 100px;
+    width: auto;
     max-width: 200%;
 }
 }
