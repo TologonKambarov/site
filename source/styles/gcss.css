@@ -267,8 +267,9 @@ div .qr img {
 }
     
 .contact p a {
-    font-size: 100px;
+    font-size: auto;
     max-width: 150%;
+    width: 50px;
 }
 
 p img #myImg1,
