@@ -221,7 +221,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 @media (
     min-width:700px) {
     .col-lg-6,
-    .col-lg-4,
+    .col-lg-4 .qr,
     .contact,
     .hrefbutton
     {
