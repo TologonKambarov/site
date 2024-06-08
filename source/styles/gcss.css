@@ -97,10 +97,9 @@ video {
 h4 {
     display: inline;
     text-align: center;
-
     position: absolute;
-  top: 5%;
-  left: 45%;
+  top: 6%;
+  left: 50%;
   transform: translate(-50%, -50%);
   z-index: 1;
   color: aqua;
@@ -137,14 +136,16 @@ div .qr img {
     margin: 0;
 }
 .qr {
-    display: inline-block;
-    margin: 4px;
-    padding: 1px;
+    display: inline-flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 2px;
+    padding: 0;
     filter: brightness(120%);
     text-align: center;
-    border: solid 2px green;
+    border: solid 1px green;
     box-shadow: 0 3px 6px black;
-font-size: 8px;
+    font-size: 10px;
 }
 
 .font-effect-outline {
