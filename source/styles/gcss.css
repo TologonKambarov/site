@@ -36,9 +36,9 @@ input {
     color: red;
     font-style: italic;
     box-shadow: 0 2px 4px black;
-    margin-bottom: 2px;
+    margin-bottom: 4px;
     padding-left: 1px;
-    padding-right: 1px;
+    padding-right: 2px;
 }
 
 .dropdown-item {
