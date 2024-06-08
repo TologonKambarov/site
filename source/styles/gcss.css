@@ -320,6 +320,11 @@ div .qr img {
     width: 50px;
 }
 
+.contact p h5, h6 {
+    font-size:100%;
+    
+}
+
 p img #myImg1,
     #myImg2,
     #myImg3,
