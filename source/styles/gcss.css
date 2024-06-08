@@ -323,8 +323,7 @@ div .qr img {
 .contact p h5, h6 {
     font-size:auto;
     max-width: 100%;
-    width: 50px;
-    
+    color: chocolate;
 }
 
 p img #myImg1,
