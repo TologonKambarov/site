@@ -20,6 +20,8 @@ a {
     color: aqua;
     font-style: oblique;
     font-family: Tahoma;
+    margin: 0;
+    padding: 0;
     
 }
 
