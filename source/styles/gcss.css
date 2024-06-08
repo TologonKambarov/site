@@ -321,7 +321,9 @@ div .qr img {
 }
 
 .contact p h5, h6 {
-    font-size:200%;
+    font-size:auto;
+    max-width: 100%;
+    width: 50px;
     
 }
 
