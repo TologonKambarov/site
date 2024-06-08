@@ -43,8 +43,8 @@ input {
 
 .dropdown-item {
     background: linear-gradient(180deg, #5fe8a1 0%, #ffffff 100%);
-    padding: 0;
-    margin: 0;
+    padding: 1;
+    margin: 5;
     display: inline-block;
 }
 
